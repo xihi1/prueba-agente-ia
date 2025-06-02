@@ -1,0 +1,7 @@
+# datos.csv
+nombre,edad,ciudad,estado
+Juan,25,Madrid,ACTIVO
+María,30,Barcelona,ACTIVO  
+Carlos,28,Valencia,INACTIVO
+Ana,35,Sevilla,ACTIVO
+Luis,22,Bilbao,INACTIVO
