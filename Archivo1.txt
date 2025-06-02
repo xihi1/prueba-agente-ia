@@ -1,6 +1,0 @@
-# archivo1.txt
-Esta es una prueba de texto simple.
-La palabra clave es: ORIGINAL
-Aquí tenemos más contenido con ORIGINAL.
-El sistema funciona correctamente.
-ORIGINAL será reemplazada por el agente.
